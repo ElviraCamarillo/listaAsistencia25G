@@ -22,3 +22,4 @@
 20.- Christian Beltran
 21.- Dani Viernes
 22.- Diego Cruz
+24.- Luis Antonio Renteria
