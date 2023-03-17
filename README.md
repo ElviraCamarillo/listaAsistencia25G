@@ -1,4 +1,5 @@
 # Lista de Asistencia 25G JS.
+
 1.- Elvira Camarillo
 2.- Manuel Cabrera
 3.- Saidel Hernandez
@@ -18,3 +19,4 @@
 17.- Paola Arreola
 18.-Lau Valle
 19.- Roberto Hernández
+20.- Christian Beltran
