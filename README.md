@@ -1,2 +1,3 @@
 # Lista de Asistencia 25G JS.
-Daniel Flores Guerrero
+1. Elvira Camarillo
+2.- Manuel Cabrera
