@@ -1,0 +1,19 @@
+Coloca tu nombre en la lista del README.md  lo más pronto posible
+
+Pasos:
+Clonar repositorio
+Crear una branch desde main con tu nombre
+Agregar al README.md tu nombre en el siguiente número disponible con el formato debido
+Subir la rama (git push)
+Crear un Pull request en Github y pedir que se revise
+Si todo es correcto yo haré merge de la rama y la práctica concluyó para ti
+
+¿Qué debo hacer si alguien me ganó el lugar o si tengo conflictos?
+Si tienes cambios pendientes de commitear en la rama actual, haz un commit con esos cambios
+Muévete a la rama principal (git checkout main)
+Actualizar la rama principal (git pull)
+Muévete a la rama con tu nombre (git checkout el-nombre-de-tu-rama)
+Actualizar tu rama con los cambios más actuales de main con un merge (git merge main)
+Resolver conflictos
+Hacer commit de la resolución de conflictos
+Subir los cambios a tu rama en github (git push)   --- Esto actualiza tu pull request automáticamente si ya existe uno, si no has creado uno para esta rama entonces créalo en github
