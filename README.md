@@ -15,3 +15,4 @@
 14.- Karla Herzo
 15.-Samantha Castillo
 16.- Damian Tapia
+18.- Paola Arreola
