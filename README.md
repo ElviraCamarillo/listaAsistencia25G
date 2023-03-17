@@ -15,5 +15,6 @@
 14.- Karla Herzo
 15.-Samantha Castillo
 16.- Damian Tapia
-18.- Paola Arreola
-19.Lau Valle
+17.- Paola Arreola
+18.-Lau Valle
+19.- Roberto Hernández
