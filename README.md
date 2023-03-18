@@ -23,4 +23,5 @@
 21.- Dani Viernes
 22.- Diego Cruz
 24.- Luis Antonio Renteria
-25.- Aaron Enciso
+25.- Aaron Encisoi
+26.- Daniel Flores Guerrero
