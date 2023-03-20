@@ -24,6 +24,6 @@
 22.- Diego Cruz
 24.- Luis Antonio Renteria
 25.- Aaron Enciso
-26.-
+26.- Rob Crlu
 27.-
 28.- jesus abraham
