@@ -23,7 +23,8 @@
 21.- Dani Viernes
 22.- Diego Cruz
 24.- Luis Antonio Renteria
-25.- Aaron Enciso
-26.- Rob Crlu
-27.-
-28.- jesus abraham
+25.- Aaron Encisoi
+26.- Daniel Flores Guerrero
+27.- Aaron Enciso
+28.- Rob Crlu
+29.- jesus abraham
